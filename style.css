@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    background:black;
+    
+}
+canvas{
+    width:800px;
+    height:600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:150px;
+}
+button{
+    width:fit;
+    height:fit;
+    background:dodgerblue;
+    border-radius:0.5rem;
+    color:lavender;
+    font-weight:bolder;
+    font-family:sans-serif;
+    margin-top:200px;
+    font-size:2em;
+    border:none;
+    padding:2rem 4rem;
+}
+h1{
+    font-size:4em;
+    font-weight:bolder;
+    font-family: 'Bungee Spice', sans-serif;
+}
