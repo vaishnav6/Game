@@ -4,15 +4,11 @@ Welcome to Block Blaster, an exciting game developed using JavaScript!
 
 ## Overview
 
-Block Blaster is a [brief description of your game].
+Block Blaster is a [sample game like angry birds ].
 
-## Features
+## Preview 
 
-- [List key features of your game]
-
-## Screenshots
-
-![Screenshot 1](link_to_screenshot_1)
+![Screenshot](https://ibb.co/2WKZ2rC)
 
 ## Demo
 
